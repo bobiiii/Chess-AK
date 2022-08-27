@@ -1,0 +1,36 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.flex {
+    display: flex;
+    width: 100%;
+    height: 12.5%;
+    background-color: blue;
+
+
+
+
+}
+
+.black {
+    background-color: rgb(187, 175, 175);
+    width: 12.5%;
+    height: 100%;
+}
+
+.white {
+    background-color: wheat;
+    width:12.5% ;
+    height: 100%;
+}
